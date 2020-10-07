@@ -1,0 +1,9 @@
+.pokedex {
+  border: 1px solid grey;
+  padding: 10px;
+}
+.pokedex-hand {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
